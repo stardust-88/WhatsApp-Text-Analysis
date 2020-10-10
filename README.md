@@ -1,6 +1,6 @@
 # WhatsApp-Text-Analysis
-Worked on the Whatsapp text file and performed comprehensive data analysis and therefore extracted meaningful informations and texting patterns of the individuals concerned with the chat.
-Some important visualizations resulted from this work:
+Worked on the Whatsapp text file and performed comprehensive data analysis and therefore extracted meaningful informations and texting patterns of the individuals concerned with the chat.<br>
+##### Some important visualizations resulted from this work:
 
 <img src="images/image1.png">
 
